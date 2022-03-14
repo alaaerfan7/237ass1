@@ -15,12 +15,12 @@ print ("socket is listening ")
 
 
 
-username=input('please enter your username'+ '')
+username=input('please enter your username')
 while username!= "alaaerfan":
-    username=input("please input the correct username to have access "+'')
+    username=input("please input the correct username to have access ")
 password=input('please enter your password')
 while password!="1234":
-    password=input("please input the correct password to access "+'')
+    password=input("please input the correct password to access ")
 
 # import library
 import math, random
